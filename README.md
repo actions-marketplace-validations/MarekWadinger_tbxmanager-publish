@@ -1,5 +1,12 @@
 # tbxmanager-publish
 
+> **For registry collaborators only.** This action requires a `TBXMANAGER_REGISTRY_TOKEN` secret
+> with write access to [tbxmanager-registry](https://github.com/MarekWadinger/tbxmanager-registry).
+>
+> **Community authors:** Submit your package via the
+> [issue form](https://github.com/MarekWadinger/tbxmanager-registry/issues/new?template=submit-package.yml)
+> instead — no special access needed. See the [Quick Start](https://tbxmanager.com/quick-start-authors).
+
 GitHub Action to automatically publish MATLAB packages to the [tbxmanager registry](https://github.com/MarekWadinger/tbxmanager-registry).
 
 ## What it does
